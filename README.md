@@ -21,9 +21,9 @@
 
 * <dt>ワイヤー移動</dt>
 
-   *[プレイヤーのプログラム(383行目から437行目)](https://github.com/c23005/Chase-Animal-in-Town/blob/main/ProjectData/Team2/Assets/Scripts/PlayerScript.cs)
+   * [プレイヤーのプログラム(383行目から437行目)](https://github.com/c23005/Chase-Animal-in-Town/blob/main/ProjectData/Team2/Assets/Scripts/PlayerScript.cs)
 
-   *[ワイヤー自体のプログラム](https://github.com/c23005/Chase-Animal-in-Town/blob/main/ProjectData/Team2/Assets/Scripts/ItoScript.cs)
+   * [ワイヤー自体のプログラム](https://github.com/c23005/Chase-Animal-in-Town/blob/main/ProjectData/Team2/Assets/Scripts/ItoScript.cs)
 
 * [ミニマップ](https://github.com/c23005/Chase-Animal-in-Town/blob/main/ProjectData/Team2/Assets/Scripts/MinimapCameraScript.cs)
 
@@ -53,11 +53,11 @@ Unity 2022.3.7f1
 
 ## ゲームスクリーンショット
 
-<img scr="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play2.png" width="600px">
-<img scr="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play3.png" width="600px">
-<img scr="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play4.png" width="600px">
-<img scr="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play6.png" width="600px">
+<img src="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play2.png" width="600px">
+<img src="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play3.png" width="600px">
+<img src="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play4.png" width="600px">
+<img src="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Play6.png" width="600px">
 <p>
-<img scr="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Title.png" width="300px">
-<img scr="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Result.png" width="300px">
+<img src="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Title.png" width="300px">
+<img src="https://github.com/c23005/Chase-Animal-in-Town/blob/main/ScreenShot/Result.png" width="300px">
 </p>
